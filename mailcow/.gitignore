@@ -1,0 +1,7 @@
+# Mailcow specific ignores
+*.log
+*.pid
+data/
+logs/
+mailcow.conf
+.DS_Store
